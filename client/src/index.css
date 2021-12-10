@@ -4,7 +4,7 @@ body {
   font-family: 'Montserrat', sans-serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: azure;
+  background-color: white;
 }
 body , html{
   overflow-x: hidden !important;
@@ -66,7 +66,7 @@ button{
   
 }
 .footer{
-  background-color: aliceblue;
+  background-color: white;
   padding: 10px;
 }
 
@@ -108,7 +108,8 @@ button{
   opacity: 0.6;
 }
 .login-form{
-  background-color: #1F1F1F;
+  background-color: grey;
+  height: 30rem;
 }
 .login-form input{
   background-color: #333333 !important;
@@ -130,7 +131,7 @@ button{
 }
 .login a{
   color: white !important;
-  opacity: 0.5;
+  opacity: 1.5;
 }
 
 .carimg2{
